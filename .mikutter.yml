@@ -1,0 +1,10 @@
+---
+slug: :mikutter-command-contextmenu
+depends:
+  mikutter: 3.0.4
+  plugin:
+  - gui
+version: '0.0.1'
+author: 
+name: mikutter-command-contextmenu
+description: "タイムラインのコンテキストメニューを表示するコマンドを追加します。"
